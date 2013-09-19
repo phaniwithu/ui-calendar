@@ -11,7 +11,7 @@ A complete AngularJS directive for the Arshaw FullCalendar.
 - optional - ([gcal-plugin](http://arshaw.com/js/fullcalendar-1.5.3/fullcalendar/gcal.js))
 
 # Testing
-
+#test
 We use testacular and jshint to ensure the quality of the code.  The easiest way to run these checks is to use grunt:
 
     npm install -g grunt-cli
